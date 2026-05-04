@@ -1,0 +1,10 @@
+﻿  BFS.cpp
+  DFS.cpp
+  Dijkstras.cpp
+  main.cpp
+  PathfindingAlgorithms.cpp
+  PathVisualizer.cpp
+  Scene.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Algorithms and Data Structures Assignment.vcxproj -> C:\Users\denise.h.kassab\Forsberg\C++\DataTechnology\Algorithms and Data Structures Assignment\x64\Debug\Algorithms and Data Structures Assignment.exe
